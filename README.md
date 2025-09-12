@@ -1,1 +1,2 @@
-# Initial commit
+Today is lovely
+Today was sunny:
